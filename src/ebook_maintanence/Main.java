@@ -6,7 +6,6 @@ public class Main extends Login{
     public static void main(String[] args){
         Main main = new Main();
         int x =1;
-
         while(x == 1) {
             Scanner scanner = new Scanner(System.in);
             System.out.print("\n\n");
@@ -35,6 +34,5 @@ public class Main extends Login{
                     System.out.print("=");
             }
         }
-
     }
 }
